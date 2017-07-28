@@ -15,7 +15,7 @@
 * 技术博客：http://walk-code.com
 * GitHub：https://github.com/Walk-Code
 * 期望职位：PHP程序员、Android开发工程师
-* 期望薪资：6.5k~7.5K,特别喜欢的公司例外
+* 期望薪资：7.0k~8.0K,特别喜欢的公司例外
 * 期望城市：深圳、广州
 
 ---
